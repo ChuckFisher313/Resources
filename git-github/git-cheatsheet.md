@@ -2,29 +2,29 @@
 
 ## Setup ##
 
-`code` git config --global user.name "[firstname lastname]" `code`
+` git config --global user.name "[firstname lastname]" `
 
 Set a name that is identifiable for credit when reviewing version history. 
 
-`code` git config --global user.email "[email@email.com]" `code`
+` git config --global user.email "[email@email.com]" `
 
 ## Setup & initialize project 
 
-`code` git init `code` 
+` git init ` 
 
 Initialize an existing directory as a Git repository. 
 
-`code` git clone [url] `code`
+` git clone [url] `
 
 Retrieve an entire repository from a hosted location via URL.
 
 ## Stage and snapshot ##
 
-`code` git status `code`
+` git status `
 
 Show modified files in working directory, staged for next commit. 
 
-`code` git add [file] `code`
+` git add [file] `
 Add a file as it looks now to your next commit. 
 
 ` git add . ` 
