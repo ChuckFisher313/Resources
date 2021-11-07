@@ -27,5 +27,5 @@ Show modified files in working directory, staged for next commit.
 `code` git add [file] `code`
 Add a file as it looks now to your next commit. 
 
-`code` git add . `code` 
+` git add . ` 
 Add all files in working directory to your next commit. 
