@@ -29,3 +29,25 @@ Add a file as it looks now to your next commit.
 
 ` git add . ` 
 Add all files in working directory to your next commit. 
+
+` git reset [file] `
+
+Unstage a file while retaining the changes in working directory. 
+
+` git diff ` 
+
+Difference of what is changed but not staged. 
+
+` git diff --staged ` 
+
+Difference of what is staged but not yet committed. 
+
+` git commit -m "[Descriptive message]" `
+
+Commit your staged content as new commit, with added -m switch for including a message with your commit. 
+
+## Branch and merge ##
+
+` git branch ` 
+
+List your brances. A * will appear next to the currently active branch. 
