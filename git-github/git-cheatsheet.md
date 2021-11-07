@@ -17,3 +17,15 @@ Initialize an existing directory as a Git repository.
 `code` git clone [url] `code`
 
 Retrieve an entire repository from a hosted location via URL.
+
+## Stage and snapshot ##
+
+`code` git status `code`
+
+Show modified files in working directory, staged for next commit. 
+
+`code` git add [file] `code`
+Add a file as it looks now to your next commit. 
+
+`code` git add . `code` 
+Add all files in working directory to your next commit. 
