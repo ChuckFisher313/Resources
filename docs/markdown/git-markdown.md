@@ -28,7 +28,7 @@ Images relative path (same directory)
 Images from images directory 
 
 ![Markdownlogo](/images/markdown-small.jpg)
-Format: !
+
 
 
 
