@@ -16,12 +16,21 @@ Unordered List
 > ` * Item 2 ` 
 > ` * Item 3 ` 
 
+* Item 1 
+* Item 2 
+* Item 3 
+
 Ordered List 
 
 >` 1. List 1 `    
 >` 2. List 2 `
 >` 3. List 3 ` 
 >` 4. List 4 ` 
+
+1. List item 1 
+2. List item 2 
+3. List item 3
+
 
 Links 
 
