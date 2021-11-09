@@ -1,7 +1,7 @@
 # Index #
 
 Git-markdown guide 
-[Quick Guide](https://github.com/ChuckFisher313/Resources/docs/markdown/git-markdown.md)
+[Quick Guide](https://github.com/ChuckFisher313/Resources/docs/markdown/master/git-markdown.md)
 
 Git and github docs 
 
