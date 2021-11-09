@@ -21,11 +21,17 @@ Ordered List
 ` 3. List 3 ` 
 ` 4. List 4 ` 
 
+## Images ## 
+
 Images relative path (same directory)
+
+` ![Markdownlogo](markdown-small.jpg) `
 
 ![Markdownlogo](markdown-small.jpg)
 
-Images from images directory 
+` ![Markdownlogo](/images/markdown-small.jpg)
+
+Images from images directory (Showss a broken link in vscode, but still works on github) 
 
 ![Markdownlogo](/images/markdown-small.jpg)
 
