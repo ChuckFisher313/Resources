@@ -1,7 +1,7 @@
 # Index #
 
 Git-markdown guide 
-[Quick Guide](Resources/docs/markdown/git-markdown.md)
+[Quick Guide](markdown/git-markdown.md)
 
 This doesn't work 
 
