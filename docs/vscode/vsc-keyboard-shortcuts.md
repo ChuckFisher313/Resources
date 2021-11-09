@@ -7,6 +7,13 @@
 Opens a second pane and shows markdown changes live. 
 
 
+## Editor shortcuts 
+
+` ctrl+k, o ` 
+
+Pops the current tab out into a new window.
+
+
 ## Command Pallet 
 
 This stack overflow article shows you how to set the default terminal to bash. 
