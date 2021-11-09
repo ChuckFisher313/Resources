@@ -13,6 +13,10 @@ Opens a second pane and shows markdown changes live.
 
 Pops the current tab out into a new window.
 
+` ctrl+k, m` 
+
+Change language 
+
 
 ## Command Pallet 
 
