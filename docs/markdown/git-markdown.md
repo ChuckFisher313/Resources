@@ -23,7 +23,7 @@ Ordered List
 
 Links 
 
-[Github](www.github.com)
+[Github](www.github.com) or www.github.com 
 
 ` www.github.com ` 
 ` [Github](www.github.com) ` 
