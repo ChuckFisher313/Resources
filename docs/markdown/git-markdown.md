@@ -16,9 +16,12 @@ Unordered List
 > ` * Item 2 ` 
 
 Ordered List 
-> ` 1. List 1 `    
-> ` 2. List 2 `
-> ` 3. List 3 ` 
+` 1. List 1 `    
+` 2. List 2 `
+` 3. List 3 ` 
+` 4. List 4 ` 
 
-
+Images 
+![MarkdownLogo](resources/images/logo.png)
+Format: ![Alt Text](url)
 
