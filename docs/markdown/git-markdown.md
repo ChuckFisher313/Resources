@@ -25,15 +25,15 @@ Ordered List
 
 Images relative path (same directory)
 
-` ![Markdownlogo](markdown-small.jpg) `
+` ![Markdownlogo](markdown-s.jpg) `
 
-![Markdownlogo](markdown-small.jpg)
+![Markdownlogo](markdown-s.jpg)
 
 Images from images directory (Showss a broken link in vscode, but still works on github) 
 
-` ![Markdownlogo](/images/markdown-small.jpg) `
+` ![Markdownlogo](/images/markdown-s.jpg) `
 
-![Markdownlogo](/images/markdown-small.jpg)
+![Markdownlogo](/images/markdown-s.jpg)
 
 
 
