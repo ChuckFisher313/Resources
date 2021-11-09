@@ -23,11 +23,11 @@ Ordered List
 
 Images relative path (same directory)
 
-![Markdownlogo](markdown.jpg)
+![Markdownlogo](markdown-small.jpg)
 
 Images from images directory 
 
-![Markdownlogo](/images/markdown.jpg)
+![Markdownlogo](/images/markdown-small.jpg)
 Format: !
 
 
