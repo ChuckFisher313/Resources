@@ -22,9 +22,12 @@ Ordered List
 ` 4. List 4 ` 
 
 Images 
-!MarkdownLogo(resources/images/markdown.jpg)
+!MarkdownLogo(/images/markdown.jpg)
 Format: ![Alt Text](url)
 
 Images 
 !Markdownlogo(https://github.com/ChuckFisher313/resources/images/markdown.jpg)
 
+Images 
+
+!MarkdownLogo(https://github.com/ChuckFisher313/resources/images/markdown.jpg)
