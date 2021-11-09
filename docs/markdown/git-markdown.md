@@ -1,6 +1,11 @@
-## Git markdown ##
+# Git markdown #
 
-Official github markdown guide https://guides.github.com/features/mastering-markdown/
+This is a quick reference guide to the most common markdown tags. 
+
+Official github markdown guide 
+[mastering-markdown](https://guides.github.com/features/mastering-markdown/)
+
+## Text ## 
 
 ` # ` Header 1 
 
@@ -10,6 +15,7 @@ Official github markdown guide https://guides.github.com/features/mastering-mark
 
 ` **bold** ` or ` __bold__ ` Bold 
 
+## Lists ## 
 
 Unordered List 
 > ` * Item 1 `  
@@ -32,7 +38,7 @@ Ordered List
 3. List item 3
 
 
-Links 
+## Links ## 
 
 [Github](www.github.com) or www.github.com 
 
@@ -46,7 +52,7 @@ Blockquotes
 > the present is our past. 
 
 ` > We're living the future so `
- 
+
 ` > the present is our past ` 
 
 ## Images ## 
@@ -57,7 +63,7 @@ Images relative path (same directory)
 
 ![Markdownlogo](markdown-s.jpg)
 
-Images from images directory (Showss a broken link in vscode, but still works on github) 
+Images from images directory (Shows a broken link in vscode, but still works on github) 
 
 ` ![Markdownlogo](/images/markdown-s.jpg) `
 
