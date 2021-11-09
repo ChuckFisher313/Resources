@@ -22,6 +22,6 @@ Ordered List
 ` 4. List 4 ` 
 
 Images 
-!MarkdownLogo(/images/markdown.png)
+!MarkdownLogo(/resources/images/markdown.png)
 Format: ![Alt Text](url)
 
