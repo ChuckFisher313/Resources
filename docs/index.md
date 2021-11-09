@@ -3,7 +3,7 @@
 Git-markdown guide 
 [Quick Guide](markdown/git-markdown.md)
 
-This doesn't work 
+
 
 
 Git and github docs 
