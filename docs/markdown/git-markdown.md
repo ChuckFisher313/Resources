@@ -21,35 +21,18 @@ Ordered List
 ` 3. List 3 ` 
 ` 4. List 4 ` 
 
-Images 
-
-!Markdownlogo(Resources/images/logo.png)
-Format: !Markdownlogo(https://github.com/ChuckFisher313/Resources/images/markdown.jpg)
-
-Images 
+Images relative path (same directory)
 
 ![Markdownlogo](markdown.jpg)
 
+Images from images directory 
+
+![Markdownlogo](/images/markdown.jpg)
+Format: !
 
 
 
 
 
-I can't get anything below to work 
 
-Images 
 
-!MarkdownLogo(/images/markdown.jpg)
-Format: ![Alt Text](url)
-
-Images 
-
-!Markdownlogo(https://github.com/ChuckFisher313/Resources/images/markdown.jpg)
-
-Images 
-
-!MarkdownLogo(https://github.com/ChuckFisher313/Resources/images/markdown.jpg)
-
-Images 
-
-!(https://github.com/ChuckFisher313/Resources/images/master/image.jpg?raw=true)
