@@ -45,6 +45,10 @@ Ordered List
 ` www.github.com ` 
 ` [Github](www.github.com) ` 
 
+Link to another markdown file 
+
+[a link](https://github.com/ChuckFisher313/Resources/docs/git-markdown/master/git-markdown.md)
+
 Blockquotes 
 
 > We're living the future so
