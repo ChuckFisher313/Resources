@@ -26,7 +26,9 @@ Images
 !Markdownlogo(Resources/images/logo.png)
 Format: !Markdownlogo(https://github.com/ChuckFisher313/Resources/images/markdown.jpg)
 
+Images 
 
+!Markdownlogo(markdown.jpg)
 
 
 
