@@ -23,7 +23,7 @@ Ordered List
 
 Images 
 !Markdownlogo(/images/logo.png)
-Format: !Markdownlogo(https://github.com/chuckfisher313/resources/images/markdown.jpg)
+Format: !Markdownlogo(https://github.com/ChuckFisher313/Resources/images/markdown.jpg)
 
 
 
@@ -39,12 +39,12 @@ Images
 Format: ![Alt Text](url)
 
 Images 
-!Markdownlogo(https://github.com/ChuckFisher313/resources/images/markdown.jpg)
+!Markdownlogo(https://github.com/ChuckFisher313/Resources/images/markdown.jpg)
 
 Images 
 
-!MarkdownLogo(https://github.com/ChuckFisher313/resources/images/markdown.jpg)
+!MarkdownLogo(https://github.com/ChuckFisher313/Resources/images/markdown.jpg)
 
 Images 
 
-!(https://github.com/chuckfisher313/resources/images/master/image.jpg?raw=true)
+!(https://github.com/ChuckFisher313/Resources/images/master/image.jpg?raw=true)
