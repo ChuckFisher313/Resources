@@ -26,5 +26,5 @@ Images
 Format: ![Alt Text](url)
 
 Images 
-!Markdownlogo(https://github.com/ChuckFisher313/resources/images/markdown.png?raw=true)
+!Markdownlogo(https://github.com/ChuckFisher313/resources/images/markdown.png)
 
