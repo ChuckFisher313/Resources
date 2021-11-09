@@ -14,12 +14,14 @@ Official github markdown guide https://guides.github.com/features/mastering-mark
 Unordered List 
 > ` * Item 1 `  
 > ` * Item 2 ` 
+> ` * Item 3 ` 
 
 Ordered List 
-` 1. List 1 `    
-` 2. List 2 `
-` 3. List 3 ` 
-` 4. List 4 ` 
+
+>` 1. List 1 `    
+>` 2. List 2 `
+>` 3. List 3 ` 
+>` 4. List 4 ` 
 
 Links 
 
@@ -32,7 +34,7 @@ Blockquotes
 
 > We're living the future so
 
-> the present is our past.
+> the present is our past. 
 
 ## Images ## 
 
