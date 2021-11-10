@@ -19,10 +19,4 @@ Technical writing
 
 Visual Studio Code 
 
-[Visual Studio Code](vscode/)
-
-
-Git-markdown guide 
-[Quick Guide](markdown/git-markdown.md)
-
-Test
+[Visual Studio Code](vscode/index-vsc.md)
