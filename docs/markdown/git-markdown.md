@@ -1,65 +1,63 @@
 # Git markdown #
 
-This is a quick reference guide to the most common markdown tags. 
+This is a quick reference guide to the most common markdown tags.
 
-Official github markdown guide 
+Official github markdown guide
 [mastering-markdown](https://guides.github.com/features/mastering-markdown/)
 
-## Text ## 
+## Text ##
 
-` # ` Header 1 
+` # ` Header 1
 
-` ## ` Header 2 
+` ## ` Header 2
 
-` *italics*` or ` _italics_ ` Italics 
+`*italics*` or ` _italics_ ` Italics
 
-` **bold** ` or ` __bold__ ` Bold 
+` **bold** ` or ` __bold__ ` Bold
 
-## Lists ## 
+## Lists ##
 
-Unordered List 
+Unordered List
 > ` * Item 1 `  
-> ` * Item 2 ` 
-> ` * Item 3 ` 
+> ` * Item 2 `
+> ` * Item 3 `
 
-* Item 1 
-* Item 2 
-* Item 3 
+* Item 1
+* Item 2
+* Item 3
 
-Ordered List 
+Ordered List
 
->` 1. List 1 `    
+>` 1. List 1 `
 >` 2. List 2 `
->` 3. List 3 ` 
->` 4. List 4 ` 
+>` 3. List 3 `
+>` 4. List 4 `
 
-1. List item 1 
-2. List item 2 
+1. List item 1
+2. List item 2
 3. List item 3
 
+## Links ##
 
-## Links ## 
+[Github](www.github.com) or www.github.com
 
-[Github](www.github.com) or www.github.com 
+` www.github.com `
+` [Github](www.github.com) `
 
-` www.github.com ` 
-` [Github](www.github.com) ` 
-
-Link to another markdown file 
+Link to another markdown file
 
 [a link](https://github.com/ChuckFisher313/Resources/docs/git-markdown/master/git-markdown.md)
 
-Blockquotes 
+Blockquotes
 
 > We're living the future so
-
-> the present is our past. 
+> the present is our past.
 
 ` > We're living the future so `
 
-` > the present is our past ` 
+` > the present is our past `
 
-## Images ## 
+## Images ##
 
 Images relative path (same directory)
 
@@ -67,17 +65,10 @@ Images relative path (same directory)
 
 ![Markdownlogo](markdown-s.jpg)
 
-Images from images directory (Shows a broken link in vscode, but still works on github) 
+Images from images directory (Shows a broken link in vscode, but still works on github)
 
 ` ![Markdownlogo](/images/markdown-s.jpg) `
 
 ![Markdownlogo](/images/markdown-s.jpg)
 
-Test 3 
-
-
-
-
-
-
-
+Test 3
