@@ -1,22 +1,13 @@
 # Topics # 
 
-Bash 
-
-[Bash](bash/index-bash.md)
-
-Git-github 
-
-[Git](git-github/index-git.md)
-
-Markdown 
-
-[Markdown](markdown/index-markdown.md)
-
-Technical writing 
-
-[Technical Writing](technical-writing/index-techwriting.md)
 
 
-Visual Studio Code 
+* [Bash](bash/index-bash.md)
 
-[Visual Studio Code](vscode/index-vsc.md)
+* [Git-github](git-github/index-git.md)
+
+* [Markdown](markdown/index-markdown.md)
+
+* [Technical Writing](technical-writing/index-techwriting.md)
+
+* [Visual Studio Code](vscode/index-vsc.md)
