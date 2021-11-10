@@ -10,7 +10,7 @@ Create a directory.
  
 List files and folders in the current directory. 
 
-*Switches* ` -a` (all) ` -ld * ` (One column)
+*Switches* ` -a ` (all) ` -ld * ` (One column)
 
 ` touch [filename] ` 
 
