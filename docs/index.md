@@ -2,11 +2,16 @@
 
 Bash 
 
+[Bash](bash/index-bash.md)
+
 Git-github 
+
 
 Markdown 
 
+
 Technical writing 
+
 
 Visual Studio Code 
 
