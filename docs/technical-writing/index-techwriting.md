@@ -2,6 +2,8 @@
 
 ## Style guide examples ##
 
-[Style guide links](docs/style-guide-examples/examples-of-styleguides.md)
+[Style guide links](style-guide-examples/examples-of-style-guides.md)
 
-Test text 2
+[Git-github](git-github/index-git.md)
+
+Test text 3
