@@ -69,8 +69,8 @@ Images relative path (same directory)
 
 Images from images directory (Shows a broken link in vscode, but still works on github)
 
-`![Markdownlogo](/images/markdown-s.jpg)`
+`![Markdownlogo](images/markdown-s.jpg)`
 
 ![Markdownlogo](images/markdown-s.jpg)
 
-Test 10
+Test 11
