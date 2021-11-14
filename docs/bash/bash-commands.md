@@ -2,22 +2,22 @@
 
 ## Directories and files ##
 
-` mkdir [path] `
+`mkdir [path]`
 
 Create a directory.
 
-` ls `
+`ls`
 
 List files and folders in the current directory.
 
 *Switches*
-` -a ` (all)
-` -ld * ` (One column)
+`-a` (all)
+`-ld *` (One column)
 
-` touch [filename] `
+`touch [filename]`
 
 Creates a file in the current directory.
 
-` cd [path] `
+`cd [path]`
 
 Changes the current directory to the path entered.
