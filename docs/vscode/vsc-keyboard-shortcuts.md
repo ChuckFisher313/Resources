@@ -2,24 +2,22 @@
 
 ## Markdown specific shortcuts ##
 
-`ctrl+k v ` 
+`ctrl+k v`
 
-Opens a second pane and shows markdown changes live. 
+Opens a second pane and shows markdown changes live.
 
+## Editor shortcuts ##
 
-## Editor shortcuts 
-
-` ctrl+k, o ` 
+` ctrl+k, o `
 
 Pops the current tab out into a new window.
 
-` ctrl+k, m` 
+`ctrl+k, m`
 
-Change language 
+Change language
 
+## Command Pallet ##
 
-## Command Pallet 
+This stack overflow article shows you how to set the default terminal to bash.
 
-This stack overflow article shows you how to set the default terminal to bash. 
-
-https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal
+<https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal>
