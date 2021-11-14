@@ -8,7 +8,7 @@ Opens a second pane and shows markdown changes live.
 
 ## Editor shortcuts ##
 
-` ctrl+k, o `
+`ctrl+k, o`
 
 Pops the current tab out into a new window.
 
