@@ -4,4 +4,4 @@ This project is intended to be a warehouse of useful personal resources on vario
 
 Start [Here](docs/index.md)
 
-Alternately, you can view github pages [Here](https://chuckfisher313.github.io/Resources/Resources/)
+Alternately, you can view github pages [Here](https://chuckfisher313.github.io/Resources)
