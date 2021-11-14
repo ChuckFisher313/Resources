@@ -1,6 +1,6 @@
-# Git markdown #
+# Github markdown #
 
-This is a quick reference guide to the most common markdown tags.
+This is a quick reference guide to the most common markdown tags. This is specific to how github displays markdown.
 
 Official github markdown guide
 [mastering-markdown](https://guides.github.com/features/mastering-markdown/)
@@ -73,4 +73,4 @@ Images from images directory (Shows a broken link in vscode, but still works on 
 
 ![Markdown-logo](/images/markdown.jpg)
 
-Test 13
+
