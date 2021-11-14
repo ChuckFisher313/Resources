@@ -63,6 +63,8 @@ Blockquotes
 
 Images relative path (same directory)
 
+3
+
 `![Markdownlogo](markdown-s.jpg)`
 
 1
