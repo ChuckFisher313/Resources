@@ -63,14 +63,14 @@ Blockquotes
 
 Images relative path (same directory)
 
-`![Markdownlogo](markdown-s.jpg)`
+`![Markdown-logo](markdown-s.jpg)`
 
-![Markdownlogo](markdown-s.jpg)
+![Markdown-logo](markdown-s.jpg)
 
 Images from images directory (Shows a broken link in vscode, but still works on github)
 
-`![Markdownlogo](images/markdown.jpg)`
+`![Markdown-logo](images/markdown.jpg)`
 
-![Markdownlogo](images/markdown.jpg)
+![Markdown-logo](images/markdown.jpg)
 
 Test 12
