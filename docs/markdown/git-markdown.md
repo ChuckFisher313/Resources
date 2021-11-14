@@ -74,4 +74,4 @@ Images from images directory (Shows a broken link in vscode, but still works on 
 
 `![Markdownlogo](/images/markdown-s.jpg)`
 
-![Markdownlogo](images/markdown-s.jpg)
+![Markdownlogo](/images/markdown-s.jpg)
