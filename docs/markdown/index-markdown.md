@@ -6,4 +6,4 @@
 
 ## Useful Videos ##
 
-* [Adding images](youtube.com/watch?v=hHbWF1Bvgf4)
+* [Adding images](https://www.youtube.com/watch?v=hHbWF1Bvgf4)
