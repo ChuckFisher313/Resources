@@ -1,5 +1,7 @@
 # Examples of style guides #
 
+[IBM style guide](https://ptgmedia.pearsoncmg.com/images/9780132101301/samplepages/0132101300.pdf)
+
 IBM style guide https://ptgmedia.pearsoncmg.com/images/9780132101301/samplepages/0132101300.pdf
 
 Microsoft style guide https://docs.microsoft.com/en-us/style-guide/welcome/
