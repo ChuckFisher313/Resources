@@ -46,7 +46,9 @@ Ordered List
 
 Link to another markdown file
 
-[a link](https://github.com/ChuckFisher313/Resources/docs/git-markdown/master/git-markdown.md)
+`[Git Markdown](git-markdown/master/git-markdown.md)`
+
+[Git Markdown](git-markdown/master/git-markdown.md)
 
 Blockquotes
 
@@ -69,6 +71,6 @@ Images from images directory (Shows a broken link in vscode, but still works on 
 
 `![Markdownlogo](/images/markdown-s.jpg)`
 
-![Markdownlogo](images/markdown-s.jpg)
+[Markdownlogo](images/markdown-s.jpg)
 
-test 4
+test 
