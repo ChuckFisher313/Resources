@@ -72,5 +72,3 @@ Images from images directory (Shows a broken link in vscode, but still works on 
 `![Markdown-logo](/images/markdown.jpg)`
 
 ![Markdown-logo](/images/markdown.jpg)
-
-
