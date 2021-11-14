@@ -2,4 +2,4 @@
 
 ## Git specific markdown ##
 
-[git-markdown](github-markdown.md)
+[Github Markdown](github-markdown.md) Markdown specifically for how github displays markdown. 
