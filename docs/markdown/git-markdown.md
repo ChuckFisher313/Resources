@@ -77,8 +77,12 @@ Images from images directory (Shows a broken link in vscode, but still works on 
 
 ![Markdownlogo3](images/markdown-s.jpg)
 
-![Markdownlogo4](https://github.com/ChuckFisher313/Resources/images/markdown-s.jpg)
+![Markdownlogo4](/images/markdown-s.jpg)
 
-![Markdownlogo5](/images/markdown-s.jpg)
+![Markdownlogo5](https://github.com/ChuckFisher313/Resources/images/markdown-s.jpg)
 
-Test 6
+![Markdownlogo6](ChuckFisher313/Resources/images/markdown-s.jpg)
+
+![Markdownlog7](Resources/images/markdown-s.jpg)
+
+Test 7
