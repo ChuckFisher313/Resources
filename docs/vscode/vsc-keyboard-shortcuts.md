@@ -14,6 +14,8 @@ Pops the current tab out into a new window.
 
 `ctrl+k, m`
 
+`ctrl+,` Opens settings
+
 Change language
 
 ## Command Pallet ##

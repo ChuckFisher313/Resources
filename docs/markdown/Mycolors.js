@@ -1,0 +1,1 @@
+const mycolors = ['#00bcd41', ]
