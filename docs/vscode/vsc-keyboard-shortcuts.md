@@ -38,11 +38,17 @@
 
 ### Live server ###
 
-`alt+l  alt+o` Opens current HTML page in a live web browser. Saving automatically reloads webpage. 
+`alt+l  alt+o` Opens current HTML page in a live web browser. Saving automatically reloads webpage.
 
 ### CSS Peek ###
 
-`F12` Place cursor in css and press F12 to open CSS inline. 
+`F12` Place cursor in css and press F12 to open CSS inline.
+
+### Markdown Linter ###
+
+`ctrl+. Enter` Fixes individual markdown problem on line.
+
+`ctrl+shift+p, mark` Opens command pallet, runs markdown linter command to fix all markdown problems in page.
 
 ## Command pallet ##
 

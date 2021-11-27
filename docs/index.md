@@ -1,4 +1,4 @@
-# Topics # 
+# Topics #
 
 * [Bash](bash/index-bash.md)
 
@@ -9,4 +9,3 @@
 * [Technical Writing](technical-writing/index-techwriting.md)
 
 * [Visual Studio Code](vscode/index-vsc.md)
-
