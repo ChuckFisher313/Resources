@@ -2,23 +2,41 @@
 
 ## Markdown specific shortcuts ##
 
-`ctrl+k v`
-
-Opens a second pane and shows markdown changes live.
+`ctrl+k v` Opens a preview pane for markdown.
 
 ## Editor shortcuts ##
 
-`ctrl+k, o`
+`! Enter` Creates HTML boilerplate.
 
-Pops the current tab out into a new window.
+`ctrl+k, o` Pops the current tab out into a new window.
 
-`ctrl+k, m`
+`ctrl+,` Opens settings.
 
-`ctrl+,` Opens settings
+`ctr+k m` Change language.
 
-Change language
+## Text shortcuts ##
 
-## Command Pallet ##
+`ctrl+d` Highlights whatever word your cursor is in.
+
+`ctrl+d, ctrl+d, ctrl+d` Highlights each iteration of whatever word you are in for multi-line editing.
+
+`alt+click` Adds more cursors in each location you click to allow for multi-line editing. 
+
+`ctrl+c` Copies entire curent line. (As long as nothing is highlighted)
+
+`ctrl+shift+k` Deletes an entire line.
+
+`ctrl+[ ` or `ctrl+]` Indents or outdents a line.
+
+`ctrl+k, ctrl+c` Adds comment.
+
+## Extension specific shortcuts ##
+
+### Live server ###
+
+`alt+l  alt+o` Opens current HTML page in a live web browser. Saving automatically reloads webpage. 
+
+## Command pallet ##
 
 It may bey useful to switch the default terminal from powershell to bash. This stack overflow [article](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal) explains how to change the default terminal.
 
