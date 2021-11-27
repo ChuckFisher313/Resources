@@ -24,17 +24,25 @@
 
 `ctrl+c` Copies entire curent line. (As long as nothing is highlighted)
 
+`ctrl+l` Selects entire line. 
+
 `ctrl+shift+k` Deletes an entire line.
 
 `ctrl+[ ` or `ctrl+]` Indents or outdents a line.
 
 `ctrl+k, ctrl+c` Adds comment.
 
+`ctrl+space` Trigger code suggestion.
+
 ## Extension specific shortcuts ##
 
 ### Live server ###
 
 `alt+l  alt+o` Opens current HTML page in a live web browser. Saving automatically reloads webpage. 
+
+### CSS Peek ###
+
+`F12` Place cursor in css and press F12 to open CSS inline. 
 
 ## Command pallet ##
 
