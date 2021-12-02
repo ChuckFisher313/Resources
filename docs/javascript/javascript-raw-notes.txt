@@ -1,0 +1,10 @@
+
+Raw notes from this video https://www.youtube.com/watch?v=W6NZfCO5SIk
+
+Best practice is to place javascript script tag at the end of the body because it's better if the browser loads the HTML before trying to load the javascript. 
+
+<script> 
+    // comment 
+    console.log('Hello World');
+</script> 
+
