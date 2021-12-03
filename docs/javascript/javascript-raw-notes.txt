@@ -3,8 +3,112 @@ Raw notes from this video https://www.youtube.com/watch?v=W6NZfCO5SIk
 
 Best practice is to place javascript script tag at the end of the body because it's better if the browser loads the HTML before trying to load the javascript. 
 
+Inline 
 <script> 
     // comment 
     console.log('Hello World');
 </script> 
+
+In a separate file. 
+<Script src="script.js"/>
+
+Node is a runtime environment for executing javascript code. 
+
+
+
+VARIABLES 
+
+let name = 'Chuck'; 
+
+"let" is indicating the variable "name" is the variable. End with semi colon. Single quotes on strings is a best practice. 
+
+(Using var to indicate variables has some kind of problem)
+
+Variable names best practices 
+    Cannot be a reserved word. (if is an example)
+    Cannot start with a number.
+    Cannot contain a space or hyphen.
+    Camel case is the most common.
+    Variable names are case sensitive. 
+
+Types: 
+    Primitives 
+        strings - let name = 'Chuck'; 
+        numbers - let age = '38';
+        boolean - let isApproved = true; 
+        undefined - let firstName; (don't set it to anything and it'll be undefined.) Undefined is a type AND a value. 
+        null - let selectedColor - null; (use when you want to clear the value in a variable ) null is an object.
+
+ Dynamic Typing: 
+    There are two types of languages, static languages and dynamic languages. In static languages the type of a variable cannot be changed. In dynamic languages, the type can be changed. Variable type is determined at runtime based on what the value is at that time. 
+
+    Integer vs floating point. All numbers in javascript are of type Number. 
+
+Reference Types: 
+    Objects - Something that has properties.
+        There are two ways to work with objects. 
+            1. Dot notation - person.name = 'John';   or console.log(person.name); Most used way. 
+            2. Bracket notation - person['name'] = 'Mary'; 
+            Used when you might not know the property at runtime. 
+    Arrays - List of objects. 
+        let selectedColors = ['red', 'blue'];  This is an array with two values. 
+        console.log(selectedColors[1]); This would return the value in the array index 1.
+        selected colors[2] = 'green'; This would add a third item to the array. 
+        Javascript allows different types in an array. 
+        An array is technically an object in Javascript. 
+        There are inherent properties in any array, assigned by default such as, every, fill, filter, find, findIndex, etc. 
+        Length property is a commonly used array property which identifies how many things are in an array. 
+    Function - Fundamental building block in js that performs a task or calculates a value. 
+        Function syntax:       
+        function greet() {
+            console.log('Hello World');
+        }
+        No semi colon at the end of a function. 
+        
+        Calling a function syntax: 
+        greet(); 
+
+Functions can have inputs. 
+
+function greet (name) {
+    console.log('Hello ' + name);
+}
+greet ('John'); 
+greet('Chuck'); 
+    
+    *** name is a parameter. 
+    *** John is an argument. 
+
+    Object Example 
+    let person = {
+        name: 'Chuck',
+        age: 30
+    }
+
+function greet(firstName, lastName) {
+    console.log('Hello' + firstName + ' lastName)
+}
+greet ('Chuck',  'Fisher');
+
+Second example of a function, calculating a value. 
+
+function square(number) {
+    return number * number;
+}
+
+let number = square(2);
+or 
+console.log(square(2));
+
+Console.log is a function. 
+
+
+
+CONSTANTS 
+
+Value of constants can't change. 
+
+const interestRate = 0.3; 
+
+If you try to change a constant, it'll throw an error. 
 
