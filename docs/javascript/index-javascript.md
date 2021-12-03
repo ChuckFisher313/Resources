@@ -6,3 +6,4 @@
 * Arrays
 * Functions
 * Objects
+* [Types](javascript-types.md)
